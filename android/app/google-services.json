@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "901366992005",
+    "project_id": "hookezy-20a05",
+    "storage_bucket": "hookezy-20a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901366992005:android:722a8d898274f6a627adec",
+        "android_client_info": {
+          "package_name": "com.hook.hookezy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901366992005-ts9h44o0sdg12p5dm63gbfu2h36p2r7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hook.hookezy",
+            "certificate_hash": "ad332bb26e7ea7a490f499426f3767a303b7812b"
+          }
+        },
+        {
+          "client_id": "901366992005-87l3t8pev63vhhi98oobdbp8107m8kbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnePrE9ECMPydL7Ar8nZuH9N5wKbINUcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901366992005-87l3t8pev63vhhi98oobdbp8107m8kbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
